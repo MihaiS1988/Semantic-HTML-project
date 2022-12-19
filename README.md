@@ -16,6 +16,6 @@ As a team we learnt about HTML semantic tags, CSS and how to use Git Hub to coll
 
 You can view the webpage with the help of URL  
 
-* https://github.com/neftonjin/challenge1  (Repository)
+* https://github.com/MihaiS1988/Semantic-HTML-project  (Repository)
 
-*  https://neftonjin.github.io/challenge1/(GitHubPage)
+*  https://mihais1988.github.io/Semantic-HTML-project/  (GitHubPage) 
